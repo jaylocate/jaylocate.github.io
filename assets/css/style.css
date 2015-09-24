@@ -199,12 +199,12 @@ input {
 }
 
 #h .logo {
-	position: absolute;
+	position: relative;
 	left: -250px;
-	top: 10px;
-	display: block;
-	/*height: 500px;*/
-	width: 50%;
+	top: -150px;
+	/*display: block;
+	height: 500px;*/
+	width: 750px;
 	/*background: url(assets/img/Jaylocate design 2 white.png) no-repeat;
 	text-indent: -999em;
 	text-decoration: none;*/
